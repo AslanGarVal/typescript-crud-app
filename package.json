@@ -1,0 +1,19 @@
+{
+  "name": "typescript-crud-app",
+  "version": "1.0.0",
+  "description": "My first TypeScript web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AslanGarVal/typescript-crud-app.git"
+  },
+  "author": "Aslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AslanGarVal/typescript-crud-app/issues"
+  },
+  "homepage": "https://github.com/AslanGarVal/typescript-crud-app#readme"
+}
